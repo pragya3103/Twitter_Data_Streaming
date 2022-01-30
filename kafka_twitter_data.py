@@ -11,10 +11,10 @@ from kafka import KafkaConsumer, KafkaProducer
 
 # Twitter API's Key
 
-access_token = '811205561643515904-89kdYOal4whT4hoyzg5KMqpDu8Mx1fK'
-access_token_secret = 'zMVNpFtHI9fVvtuP0LnomptaHhEQ7aKEWGwjV3iW504Zo'
-consumer_key = 'obQRWkMGxeM5HTgigVM6uK91V'
-consumer_secret = 'BTyRtsvKZLrWEOeOaF3nYSNd74i0LkRyNNumfn33a5xPKki8B1'
+access_token = ''
+access_token_secret = ''
+consumer_key = ''
+consumer_secret = ''
 
 # Creating authentication object
 
