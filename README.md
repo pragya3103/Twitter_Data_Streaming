@@ -5,7 +5,7 @@ Twitter data streaming using Twitter APIs
 Streaming real-time Twitter Trending Hash-Tag data using twitter API, Kafka, Python.
 
 ## Prerequisite:
-1. Python
+1. Python , Pandas , etc
 2. Twitter Developer Account
 3. Kafka
 
